@@ -1,0 +1,43 @@
+101001                20151018MAXXMART                                     3000 MAXX DR                            MAXXTOWN            NY68463    MAXXMART                           5678 CORPORATE DR                       LOS ANGELES         CA65435    SUZY QUEUE          2145551212      201505182015052520150516
+20      RBC1234L         RAB00102     10        DZ        60        RED BASIC COLLAR LARGE                  
+303333333             7777777                  
+4006                  700       D240      
+60AN1532         50        SN-821         1301      VW3212         50        SN3212         900       AHB0137        415       AN1111         15        SN551          400       SN3018         800       SN7472         100       725       SN3177         CA        
+20      RBC1234M         RAB00104     15        DZ        56        RED BASIC COLLAR MEDIUM                 
+303333331             7777771                  
+4006                  700       D240      
+60DN1509         121       SN-323         155       JB4312         2         FDWN377        290       AHB1373        141       BN1111         65        SN552          140       SN3048         1080      SN4472         105       2         SN6277         CA        
+20      RBC1234S         RAB00106     20        DZ        48        RED BASIC COLLAR SMALL                  
+303333332             7777772                  
+4006                  700       D240      
+60HN1522         17        AWN8765        18        SN-200         546       DEE577         320       AHB1112        30        CN1111         600       SN553          940       SN3068         3280      SN3471         810       12        SN5077         CA        
+20      CNMN456L         RAB00108     25        DZ        60        CALCIUM DOG TREAT LARGE                 
+303333313             7777773                  
+4006                  700       D240      
+60RN1500         11        DEF3296        12        SN-723         300       SN7707         100       AHB3270        410       DN1111         52        SN554          640       SN3076         80        SN4234         110       75        SN4327         CA        
+20      CNMN456M         RAB00110     30        DZ        56        CALCIUM DOG TREAT MEDIUM                
+303333334             7777774                  
+5004                  100       A170      
+60IN1561         5         ELL896         100       SN-300         150       SN3727         360       AHB3732        11        EN1111         15        SN555          340       SN3028         8760      SN5435         160       26        SN6547         CA        
+20      CNMN456S         RAB00112     30        DZ        48        CALCIUM DOG TREAT SMALL                 
+303333335             7777775                  
+4006                  700       D240      
+60SN1543         18        SN-489         150       SN-123         50        SN1437         190       AHB3730        211       FN1111         5         SN556          140       SN3043         120       SN7472         10        72        SN5077         CA        
+20      VAN0789L         RAB00114     25        DZ        60        VANILLA COLLAR LARGE                    
+303333336             7777776                  
+5004                  700       F800      
+60TN4001         48        SN-896         150       SN-455         50        SN4477         910       AHB7137        1         GN1111         30        SN557          20        SN3055         480       SN7452         60        42        SN5654         CA        
+20      VAN0789M         RAB00116     20        DZ        56        VANILLA COLLAR SMALL                    
+303333337             7777717                  
+4006                  700       D240      
+60EN3298         33        SN-890         150       SN-233         50        SN0975         55        AHB3737        12        HN1111         650       SN558          40        SN3014         80        SN7433         10        82        SN5543         CA        
+20      VAN0789S         RAB00118     15        DZ        48        VANILLA COLLAR SMALL                    
+303333338             7777778                  
+4006                  700       D240      
+60LN9532         15        SN-816         150       SN-523         50        SN1275         12        AHB3732        400       IN1111         250       SN559          40        SN3020         80        SN7466         810       3         SN5032         CA        
+20      STRSREDL         RAB00120     10        DZ        60        STRESS REDUCTION LARGE                  
+303333339             7777779                  
+5004                  100       F800      
+60WN5211         425       SN-906         150       SN-023         50        SN3270         10        AHB1237        10        JN1111         550       SN560          44        SN3012         80        SN7477         190       10        SN5237         CA        
+7010                  
+80STORE #826                                                                      
